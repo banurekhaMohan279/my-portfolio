@@ -2,7 +2,10 @@
 
 ### [Demo Here](https://banurekhamohan279.github.io/myportfolio/)
 
-### Screenshots:
+### ![App at work](https://github.com/banurekhaMohan279/myportfolio/blob/master/images/workingModel.gif)
+
+
+### Screenshots
 
 ![Screenshot 1](https://github.com/banurekhaMohan279/myportfolio/blob/master/images/screenshot1.png)
 
