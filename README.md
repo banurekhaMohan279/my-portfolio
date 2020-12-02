@@ -4,12 +4,9 @@
 
 ### Screenshots:
 
-![Screenshot 1]
-(https://github.com/banurekhaMohan279/myportfolio/blob/master/images/screenshot1.png)
+![Screenshot 1](https://github.com/banurekhaMohan279/myportfolio/blob/master/images/screenshot1.png)
 
-![Screenshot 2]
-(https://github.com/banurekhaMohan279/myportfolio/blob/master/images/screenshot2.png)
+![Screenshot 2](https://github.com/banurekhaMohan279/myportfolio/blob/master/images/screenshot2.png)
 
-![Screenshot 3]
-(https://github.com/banurekhaMohan279/myportfolio/blob/master/images/screenshot3.png)
+![Screenshot 3](https://github.com/banurekhaMohan279/myportfolio/blob/master/images/screenshot3.png)
 
