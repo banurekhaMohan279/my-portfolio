@@ -1,6 +1,6 @@
 # My portfolio
 
-### [Demo Here](https://banurekhamohan279.github.io/myportfolio/)
+### [Demo Here](https://banurekhamohan279.github.io/my-portfolio/)
 
 ### ![App at work](https://github.com/banurekhaMohan279/myportfolio/blob/master/images/workingModel.gif)
 
