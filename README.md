@@ -2,6 +2,11 @@
 
 ### [Demo Here](https://banurekhamohan279.github.io/my-portfolio/)
 
+### Tech Stack 
+- HTML
+- CSS
+- Vanilla JS
+
 ### ![App at work](https://github.com/banurekhaMohan279/myportfolio/blob/master/images/workingModel.gif)
 
 
